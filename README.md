@@ -13,7 +13,7 @@
     <a href="https://github.com/Ratmairiss">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.spbstu.ru">
+    <a href="https://et.spbstu.ru/">
       <img src="https://img.shields.io/badge/POLITECH-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVMaXE0tEk0tEk0tEk0tEk0tEk0tEk0tEk0tEk0tEk0tEk0tEk0tEkytEYws0VKvF1UwGRAuFN6zofX8NtsyXuD0Y+i3av3/fj///+Y2aK75sLn9urw+fH9//7H68w0tEmz47tjxXOL1JZ0w4KfAAAAIHRSTlMAE0uBrb/d6/b/zZMu////////////////////////bNTPTacAAAFcSURBVHgBxdPRlkMwFIXhIMjGSZAKoOj7P+Tk0LHaWTpzOf8VzpfcSIQvCCMZJ0mqFI5UmiaZzMNA7BVS4TIVh/s8w3VESAoPog9jbUqCFCLIzgX6Japqa0vyWxTp4WHKW33WONt2XU8qFKHixaYZxqmdz7q9O7CIBSA0du4uGoBIRKBqba/GkzOEXOSAO5e3Izf5p9n2GwiQHlTWv493/jyUPtMz3TQBDCR5MPUls24ln24OAC72wIzjjfQB4HsDmYjJ2FqDfgMN8BEkIubpXwD/DCRADMzIgH6CjEEFrXXNP8y9Aq2JAf+stb49eIO51t9gXp1zjwoxg7Wb27nzjeW5w56tSIoF5LqjuQfewB3IRaj04zkfKnoHjrCIIqXN+tPY2v6Ygzb3bONDG8SA2ep6M0Q4ojNkgdhPrfYRLor46kp8LA4EizzFZaksxFERyezl9kMpvv5RyLMvmc07ZPGvnIMAAAAASUVORK5CYII=&logoColor=white" alt="Twitter Badge"/>
     </a>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="110px"/>
