@@ -40,7 +40,7 @@
 LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
  <h1>
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img align="right src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right"  width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
 <img align="left" width="220" alt="" src="https://img.freepik.com/premium-photo/the-russia-flag-is-a-symbol-of-russia-identity-textured-flag_74656-1802.jpg" />
