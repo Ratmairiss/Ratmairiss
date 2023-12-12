@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>
-  <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
+  <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="120px"/>
   HELLO, MY NAME IS RATMIR
-  <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
+  <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="120px"/>
   <h1>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
   <div id="badges">
