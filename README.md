@@ -59,7 +59,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop"></code>
-<code><img height="50" src="https://www.google.com/search?q=powerpoint+png&sca_esv=590241271&rlz=1C1GCEB_enRU1076RU1076&tbm=isch&sxsrf=AM9HkKlNYPv6zNQ8h-VBsVnbyjAqihcDNA:1702406508370&source=lnms&sa=X&sqi=2&ved=2ahUKEwie98a5xoqDAxWdBhAIHQolA2wQ_AUoAXoECAQQAw&biw=1422&bih=670&dpr=1.35#imgrc=ZaUQzX2Nx3vOnM" alt="powerpoint"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" alt="powerpoint"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel"></code>
 <code><img height="50" src="https://media.imgcdn.org/repo/2023/03/movavi-video-suite/Movavi-Video-Suite.png" alt="movavi video editor"></code>
 
