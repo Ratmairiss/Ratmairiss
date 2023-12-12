@@ -19,7 +19,6 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="110px"/>
   </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
- 
 ### INFORMATION ABOUT ME: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) 🏫
 
