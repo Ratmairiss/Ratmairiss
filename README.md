@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
   <h1>
     <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
     HELLO, MY NAME IS RATMIR
