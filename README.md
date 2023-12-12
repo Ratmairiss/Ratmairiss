@@ -31,7 +31,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/KpydV69rBN05kAJnQU/giphy.gif" width="25">  I'M FREE FOR WORK **24/7**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/CPO9ZmnEiDcdLXMrzv/giphy.gif" width="25"> BESIDES MY PROGRAMMING AND TRANSLATOR SKILLS, I POSES DESIGN, CREATING PRESENTATION AND VIDEO EDITING.
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/CPO9ZmnEiDcdLXMrzv/giphy.gif" width="30"> BESIDES MY PROGRAMMING AND TRANSLATOR SKILLS, I POSES DESIGN, CREATING PRESENTATION AND VIDEO EDITING.
 
 ---
 
