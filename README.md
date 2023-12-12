@@ -64,12 +64,13 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel"></code>
 
 ---
-<div id="header" align="right">
+<div id="header" align="left">
  <h1>
    
 ### MY REPOSITORIES
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits)
+
 
  <h1>
 </div>
