@@ -66,7 +66,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 ---
 <div id="header" align="left">
   <h1>
-   MY REPOSITORIES
+   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="70"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="70">
     
  
  
@@ -83,9 +83,9 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 <details>
 <summary> I'm working with:</summary><br />
-🖥 Имя ОС	Майкрософт Windows 10 Pro
-🖥 Процессор	AMD Ryzen 5 7535HS with Radeon Graphics, 3301 МГц, ядер: 6, логических процессоров: 12
-🖥 Модель	Bravo 15 C7VF
-🖥 Установленная оперативная память (RAM)	16,0 ГБ
+🖥 Имя ОС	Майкрософт Windows 10 Pro/>
+🖥 Процессор	AMD Ryzen 5 7535HS with Radeon Graphics, 3301 МГц, ядер: 6, логических процессоров: 12/>
+🖥 Модель	Bravo 15 C7VF/>
+🖥 Установленная оперативная память (RAM)	16,0 ГБ/>
 🖥 Видео карта NVIDIA GEFORCE RTX 4060
 </details>
