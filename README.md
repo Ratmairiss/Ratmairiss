@@ -13,15 +13,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="110px"/>
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
-  <h1>
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
-    HELLO, MY NAME IS RATMIR
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+ 
 
 ---
 
