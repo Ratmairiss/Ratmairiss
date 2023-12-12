@@ -19,7 +19,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="110px"/>
   </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
-    ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
