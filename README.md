@@ -42,10 +42,10 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
  <h1>
 
 
-<img align="right"  width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
-<img align="left" width="220" alt="" src="https://img.freepik.com/premium-photo/the-russia-flag-is-a-symbol-of-russia-identity-textured-flag_74656-1802.jpg" />
+<img title= Bashkort align="right"  width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
+<img title= Russian align="left" width="220" alt="" src="https://img.freepik.com/premium-photo/the-russia-flag-is-a-symbol-of-russia-identity-textured-flag_74656-1802.jpg" />
   
-<img title=Russian src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="240"> 
+<img title=English src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="240"> 
 
 </div>
   
