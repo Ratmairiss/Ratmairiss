@@ -25,7 +25,7 @@
 ### INFORMATION ABOUT ME:
 I am a student from Saint-Petersburg 🏫
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Right now, I'm studying Data Sciense, exploring different programming languages and finding solutions for my ubiversity tasks with help of Python.
 
  -:seedling: Exploring Technical Content Writing.
 
