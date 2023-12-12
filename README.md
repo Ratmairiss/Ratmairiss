@@ -67,7 +67,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <div id="header" align="center">
  <h1>
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Ratmairiss/Orbits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits)
 
  <h1>
 </div>
