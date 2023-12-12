@@ -23,11 +23,11 @@
     
 ### INFORMATION ABOUT ME:
     
-<img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) 🏫
+<img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHM7jElsA3TzWAp3bmuVL36HN28ZS5yAxboJHENS7aqB21Ax2tIazlYqR7XvRJKrYuarc&usqp=CAU" width="30">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> I HAVE AN ENGLISH CERTIFICATE. LEVEL 🅲1️⃣
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="35"> I HAVE AN ENGLISH CERTIFICATE. LEVEL 🅲1️⃣
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/KpydV69rBN05kAJnQU/giphy.gif" width="25">  I'M FREE FOR WORK **24/7**
 
