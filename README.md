@@ -23,9 +23,9 @@
 ---
 
 ### INFORMATION ABOUT ME:
-I am a student from Saint-Petersburg 🏫
+I AM A STUDENT FROM SAINT-PETERSBURG 🏫
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Right now, I'm studying Data Sciense, exploring different programming languages and finding solutions for my ubiversity tasks with help of Python.
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
 
  -:seedling: Exploring Technical Content Writing.
 
