@@ -39,7 +39,8 @@
   
 ### LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
-
+<img align="right" height="325" width="335" alt="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="left" height="325" width="335" alt="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
   
   <img src="https://snipp.ru/cdn/country-flags/png48px/ru.png" width="110">                                                                              .<img src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="120">.                                                                              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" width="110">
 </div>
