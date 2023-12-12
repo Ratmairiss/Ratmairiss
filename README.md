@@ -6,11 +6,11 @@
   <h1>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
   <div id="badges">
-    <img src="https://giphy.com/stickers/earth-day-ipZAG6LnLIdaRJpLcY" width="70px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="70px"/>
     <a href="https://vk.com/ratmairiss">
       <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
-    <img src="https://giphy.com/stickers/earth-day-ipZAG6LnLIdaRJpLcY" width="70px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk0MHB6cW15a2V3bzViOGJiM3dseXdmazVrdWd3YmI3d2pocTQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ipZAG6LnLIdaRJpLcY/giphy.gif" width="70px"/>
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
   <h1>
