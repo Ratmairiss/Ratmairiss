@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
   HELLO, MY NAME IS RATMIR
   <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
+  <h1>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
   <h1>
   <div id="badges">
