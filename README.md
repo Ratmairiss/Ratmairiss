@@ -66,9 +66,9 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 ---
 <div id="header" align="left">
   <h1>
-  ### MY REPOSITORIES
+   MY REPOSITORIES
     
-  <h1>
+ 
   <h1>
   
     
@@ -79,7 +79,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 </div>
 
 <h1>
-  ### MY COMPUTER CONFIGURATION
+   MY COMPUTER CONFIGURATION
 <h1>
 <details>
 <summary> I'm interested in:</summary><br />
