@@ -27,7 +27,7 @@ I AM A STUDENT FROM SAINT-PETERSBURG 🏫
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> I poses an English certificate. Level 🅲1️⃣
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> I POSES AN ENGLISH CERTIFICATE. LEVEL 🅲1️⃣
 
  -:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
