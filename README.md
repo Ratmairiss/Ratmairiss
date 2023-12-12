@@ -34,6 +34,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/CPO9ZmnEiDcdLXMrzv/giphy.gif" width="30"> BESIDES MY PROGRAMMING AND TRANSLATOR SKILLS, I POSES DESIGN, CREATING PRESENTATION AND VIDEO EDITING.
 
 ---
+<div id="header" align="center">
+  **LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:**
+  <img src="https://snipp.ru/cdn/country-flags/png48px/ru.png" width="20"> <img src="https://snipp.ru/cdn/country-flags/png48px/sh.png" width="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" width="20">
+</div>
+  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
 
 ### :hammer_and_wrench: Languages and Tools :
