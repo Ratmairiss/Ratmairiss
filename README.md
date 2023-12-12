@@ -13,9 +13,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="40px"/>
     HELLO, MY NAME IS RATMIR
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="40px"/>
   </h1>
 </div>
 <div align="center">
