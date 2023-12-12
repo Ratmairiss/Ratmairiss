@@ -20,7 +20,8 @@
   </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
  </div>
-### INFORMATION ABOUT ME: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+    
+### INFORMATION ABOUT ME:
     
 <img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) 🏫
 
