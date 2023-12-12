@@ -20,10 +20,11 @@
   </div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
  </div>
-    
+
+<img align="right" height="250" width="375" alt="" src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif]
 ### INFORMATION ABOUT ME:
     
-<img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="30">
+<img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="25">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
 
