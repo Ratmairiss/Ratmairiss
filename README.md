@@ -70,7 +70,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
     
  
  
-  ---
+  <h1>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) 
 
@@ -82,9 +82,10 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
    MY COMPUTER CONFIGURATION
 
 <details>
-<summary> I'm interested in:</summary><br />
-🥇Infomatics<br />
-🥈Physics<br />
-🥉Mathematics<br />
-🏅Sports
+<summary> I'm working with:</summary><br />
+🖥 Имя ОС	Майкрософт Windows 10 Pro
+🖥 Процессор	AMD Ryzen 5 7535HS with Radeon Graphics, 3301 МГц, ядер: 6, логических процессоров: 12
+🖥 Модель	Bravo 15 C7VF
+🖥 Установленная оперативная память (RAM)	16,0 ГБ
+🖥 Видео карта NVIDIA GEFORCE RTX 4060
 </details>
