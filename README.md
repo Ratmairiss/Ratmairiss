@@ -2,7 +2,6 @@
   <h1>
   <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
   HELLO, MY NAME IS RATMIR
-  <span style="background-color: #FFFF00">Your highlighted text here.</span>
   <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
   <h1>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
@@ -15,7 +14,7 @@
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
  
-
+<span style="background-color: #FFFF00">Your highlighted text here.</span>
 ---
 
 ### :woman_technologist: About Me :
