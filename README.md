@@ -36,7 +36,7 @@
 
 ---
 <div id="header" align="center">
-  
+ <h1>
 ### LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 <img align="right"  width="110" alt="" src="https://snipp.ru/cdn/country-flags/png48px/ru.png" />
@@ -47,7 +47,7 @@
 </div>
   
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
-
+ <h1>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
