@@ -79,7 +79,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 </div>
 
 <h1>
-   MY COMPUTER CONFIGURATION
+   ⚙️MY COMPUTER CONFIGURATION
 
 <details>
 <summary> I'm working with:</summary><br />
