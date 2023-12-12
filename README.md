@@ -66,7 +66,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 ---
 <div id="header" align="left">
   <h1>
-   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="70"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="70">
+   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50">
     
  
  
