@@ -21,7 +21,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
  </div>
 
-<img align="right" height="250" width="375" alt="" src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif]
+<img align="right" height="250" width="375" alt="" src="(https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif)
 ### INFORMATION ABOUT ME:
     
 <img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="25">
