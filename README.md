@@ -37,19 +37,19 @@
 ---
 <div id="header" align="center">
  <h1>
-### LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
+LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
-<img align="right"  width="110" alt="" src="https://snipp.ru/cdn/country-flags/png48px/ru.png" />
-<img align="left" width="110" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
+<img align="right"  width="220" alt="" src="https://snipp.ru/cdn/country-flags/png48px/ru.png" />
+<img align="left" width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
   
-<img src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="120">.  
+<img src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="240">.  
 
 </div>
   
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
  <h1>
 </div>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
