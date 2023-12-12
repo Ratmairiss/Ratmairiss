@@ -29,7 +29,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> I POSES AN ENGLISH CERTIFICATE. LEVEL 🅲1️⃣
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="15"> <img src="https://media.giphy.com/media/KpydV69rBN05kAJnQU/giphy.gif" width="30"> I'M FREE FOR WORK <img src="https://static.vecteezy.com/system/resources/previews/016/314/360/original/transparent-24-hour-service-free-png.png" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="15"> <img src="https://media.giphy.com/media/KpydV69rBN05kAJnQU/giphy.gif" width="30"> I'M FREE FOR WORK **24/7**
 
 ---
 
