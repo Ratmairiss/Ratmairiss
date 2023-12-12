@@ -21,6 +21,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ratmairiss.Ratmairiss" alt=""/>
  </div>
 <img align="right" height="325" width="335" alt="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+    
 ### INFORMATION ABOUT ME:
     
 <img src="https://freepngimg.com/thumb/star/22-star-png-image.png" width="20"> I AM A STUDENT FROM SAINT-PETERSBURG [POLITECH UNIVERSUTY](https://et.spbstu.ru) <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="25">
