@@ -64,6 +64,12 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel"></code>
 
 
+<div id="header" align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <details>
 <summary> I'm interested in:</summary><br />
