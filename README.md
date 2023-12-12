@@ -20,7 +20,7 @@
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
  
----
+
 
 ### INFORMATION ABOUT ME:
 I AM A STUDENT FROM SAINT-PETERSBURG 🏫
