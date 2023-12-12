@@ -42,7 +42,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
  <h1>
 
 
-<img align="right"  width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
+<img href="https://www.buymeacoffee.com/iampavangandhi" align="right"  width="220" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/2560px-Flag_of_Bashkortostan.svg.png" />
 <img align="left" width="220" alt="" src="https://img.freepik.com/premium-photo/the-russia-flag-is-a-symbol-of-russia-identity-textured-flag_74656-1802.jpg" />
   
 <img src="https://pngicon.ru/file/uploads/flag-velikobritanii.png" width="240"> 
