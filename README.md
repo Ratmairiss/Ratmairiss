@@ -6,11 +6,11 @@
   <h1>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
   <div id="badges">
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
+    <img src="https://giphy.com/stickers/earth-day-ipZAG6LnLIdaRJpLcY" width="70px"/>
     <a href="https://vk.com/ratmairiss">
       <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70px"/>
+    <img src="https://giphy.com/stickers/earth-day-ipZAG6LnLIdaRJpLcY" width="70px"/>
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
   <h1>
