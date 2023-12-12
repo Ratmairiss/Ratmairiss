@@ -22,7 +22,7 @@
  
 
 
-### INFORMATION ABOUT ME:
+### INFORMATION ABOUT ME: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 I AM A STUDENT FROM SAINT-PETERSBURG 🏫
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
