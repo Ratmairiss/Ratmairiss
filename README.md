@@ -14,7 +14,6 @@
   </div>
   <img src="https://img.shields.io/github/watchers/Ratmairiss/Ratmairiss?color=purple" alt=""/>
  
-<span style="background-color: #FFFF00">Your highlighted text here.</span>
 ---
 
 ### :woman_technologist: About Me :
