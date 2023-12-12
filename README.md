@@ -1,4 +1,4 @@
-<div id="header" align="center">
+
   <h1>
   <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="100px"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+my+name+is+Ratmir;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82,+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A0%D0%B0%D1%82%D0%BC%D0%B8%D1%80;&center=true&size=28"> 
