@@ -68,7 +68,8 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <div id="header" align="left">
   
   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50">
-    
+ 
+</div>   
  
  
   <h1>
@@ -77,7 +78,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 
 
-</div>
+
 
 <h1>
    ⚙️MY COMPUTER CONFIGURATION
