@@ -90,3 +90,8 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 🐮 installed RAM – 16,0 GB <br />
 🐸 Video card – NVIDIA GEFORCE RTX 4060
 </details>
+
+
+<h1>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
