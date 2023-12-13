@@ -93,5 +93,5 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 
 <h1>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="" />
 
