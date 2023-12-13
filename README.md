@@ -75,7 +75,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <img align="left" height="350" width="100" alt="" src="https://media.giphy.com/media/T8yNFdUIRs2Hu/giphy.gif" />
   <h1>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZebraHead22&repo=Informatics)](https://github.com/ZebraHead22/Informatics) 
 
 </div>
 
