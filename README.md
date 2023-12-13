@@ -69,14 +69,14 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
   
   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50">
  
-</div>   
+ 
  
  
   <h1>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) 
 
-
+</div>
 
 
 
