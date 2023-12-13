@@ -84,9 +84,9 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 <details>
 <summary> I'm working with:</summary><br />
-🖥 Имя ОС	Майкрософт Windows 10 Pro <br />
-🖥 Процессор	AMD Ryzen 5 7535HS with Radeon Graphics, 3301 МГц, ядер: 6, логических процессоров: 12 <br />
-🖥 Модель	Bravo 15 C7VF <br />
-🖥 Установленная оперативная память (RAM)	16,0 ГБ <br />
-🖥 Видео карта NVIDIA GEFORCE RTX 4060
+🖥 Software – Microsoft Windows 10 Pro <br />
+🖥 Processor – AMD Ryzen 5 7535HS with Radeon Graphics <br />
+🖥 Model – Bravo 15 C7VF <br />
+🖥 installed RAM – 16,0 GB <br />
+🖥 Video card – NVIDIA GEFORCE RTX 4060
 </details>
