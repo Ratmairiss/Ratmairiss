@@ -93,5 +93,5 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 
 
 <h1>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
