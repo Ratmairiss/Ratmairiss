@@ -65,7 +65,7 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
 <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel"></code>
 
 ---
-<div id="header" align="left">
+<div id="header" align="center">
   
   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50">
  
