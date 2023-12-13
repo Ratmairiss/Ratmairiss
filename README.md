@@ -71,8 +71,8 @@ LANGUAGES, WHICH I AM ABLE TO COMMUNICATE WITH:
   <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50"> MY REPOSITORIES <img src="https://media.giphy.com/media/Mct48YMB1JVS0/giphy.gif" width="50">
  
  
-<img align="right" height="325" width="90" alt="" src="https://media.giphy.com/media/T8yNFdUIRs2Hu/giphy.gif" /> 
-<img align="left" height="325" width="90" alt="" src="https://media.giphy.com/media/T8yNFdUIRs2Hu/giphy.gif" />
+<img align="right" height="325" width="80" alt="" src="https://media.giphy.com/media/T8yNFdUIRs2Hu/giphy.gif" /> 
+<img align="left" height="325" width="80" alt="" src="https://media.giphy.com/media/T8yNFdUIRs2Hu/giphy.gif" />
   <h1>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ratmairiss&repo=Orbits)](https://github.com/Ratmairiss/Orbits) 
