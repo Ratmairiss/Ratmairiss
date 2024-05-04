@@ -28,7 +28,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> RIGHT NOW, I'M STUDYING DATA SCIENCE, EXPLORING DIFFERENT PROGRAMMING LANGUAGES AND FINDING SOLUTIONS FOR MY UNIVERSITY TASKS WITH HELP OF PYTHON.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="35"> I HAVE AN ENGLISH CERTIFICATE. LEVEL 🅲1️⃣
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="35"> I HAVE AN ENGLISH CERTIFICATE. LEVEL 🅲2️⃣
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png" width="20"> <img src="https://media.giphy.com/media/KpydV69rBN05kAJnQU/giphy.gif" width="25">  I'M FREE FOR WORK **24/7**
 
